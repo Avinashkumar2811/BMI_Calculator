@@ -1,4 +1,5 @@
-📋 BMI Calculator README
+📋 BMI Calculator 
+
 Welcome to the BMI Calculator! This simple web application helps you calculate your Body Mass Index (BMI) and provides feedback on your weight category based on the BMI value.
 
 
